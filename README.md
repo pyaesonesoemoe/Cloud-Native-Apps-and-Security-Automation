@@ -1,0 +1,1 @@
+This repository hosts documentation and code from my management of a Kubernetes cluster at James Cook University, detailing how we enforced security protocols and automated CI/CD pipelines to optimize cloud infrastructure security.
